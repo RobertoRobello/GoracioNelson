@@ -1,0 +1,33 @@
+html {
+    margin: 0; auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+body {
+    background-color: #F2E9E4;
+    color:#22223B;
+}
+
+main {
+    background-color: #C9ADA7;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.6rem
+}
+
+figure {
+    text-align: center; 
+}
+
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+    font-size: 1.2rem;
+}
+
